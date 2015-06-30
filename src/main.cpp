@@ -25,10 +25,8 @@ int main(int argc, char **argv){
   */
 
 Chaine A;
+A.mot=argv[1];
 
-
-cout << "SAISIE DE LA CHAINE "<< endl ;
-cout<<"Tapez la chaine:";cin>> A.mot ;	
 
 /** 
 * Sorting the string 
