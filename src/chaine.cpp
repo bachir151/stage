@@ -48,7 +48,7 @@ string Chaine::Estpalindrom(){
 if(equal(mot.begin(), mot.end(), mot.rbegin()))
 
         return "true" ; 
-	else 
-		return "false" ; 
+else 
+	return "false" ; 
 }
 
