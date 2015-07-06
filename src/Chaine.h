@@ -4,6 +4,8 @@
  * @author    Diedhiou Ahmed Bachir
  * @version   1.1
  */
+
+#ifndef CHAINE_H
 #define CHAINE_H
 #include <string>
 using namespace std;
@@ -22,14 +24,14 @@ string mot;
  */
 public:
 string getMot();
-void setMot();
+void setMot(string mot);
 
 /**
  *functions
  */
 public:
 string Tri( );
-string Estpalindrom();
+bool Estpalindrom();
 
 
 };
