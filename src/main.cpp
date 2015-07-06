@@ -6,6 +6,7 @@
  */
 
 
+#include <iostream>
 #include "Chaine.h"
 #include <stdlib.h>
 using namespace std;
@@ -21,25 +22,33 @@ using namespace std;
 int main(int argc, char **argv){ 
 
 /**
-  *Creates an object of type "Chaine"
-  */
+*Creates an object of type "Chaine"
+*/
 
 Chaine A;
-A.mot=argv[1];
-
-
-/** 
-* Sorting the string 
-*/
-A.Tri(); 
 
 /**
 *Standard output
 */
-cout << "le mot ordonne est :" <<A.getMot()<<endl ; 
-cout<<"la longueur du mot est :"<<A.getMot().size()<<endl; 
-cout<<A.Estpalindrom()<<endl; 
+
+for(int i=1;i<argc ;i++){
+A.setMot(argv[i]);
+
+cout <<"Word :"<<argv[i]<<endl;
+
+if (A.Estpalindrom() ==0){
+  
+cout << "Palindrome :false"<<endl;
+
+}
+else { cout << "Palindrome :true"<<endl;}
+
+cout << "the odered word is :" <<A.Tri()<<endl ; 
+cout<<"The word length is :"<<A.getMot().size()<<endl; 
+cout <<"*************************"<<endl;
+}
 
 return 0;
 
 }
+
