@@ -17,7 +17,8 @@ using namespace std;
    *@param argv An argument vector of a command line arguments
    *@return an integer 0 upon exit success
    */ 
-
+   
+/**To run the code  : ./Chaine String String ....
 
 int main(int argc, char **argv){ 
 
