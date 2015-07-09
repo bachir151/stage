@@ -45,18 +45,30 @@ Feel++ was initially developed at École Polytechnique Fédérale de
 Lausanne(Suisse) and is now a joint effort between Université de
 Strasbourg, Université Joseph Fourier (Grenoble), University of
 Coimbra (Portugal), CNRS and [CeMoSiS](http://www.cemosis.fr/).   
-[Unistra](http://www.unistra.fr/)   
-[Cemosis](http://www.cemosis.fr/)   
-[UjF](http://www.ujf-grenoble.fr/ )   
-[UC](http://www.uc.pt/)   
-[Imati](http://www.imati.cnr.it/)   
+
+<center>
+<table border=0px">
+<tr>
+  <td><a href="http://www.unistra.fr/"><img alt="UDS" src="https://github.com/wkyoshe/feelpp/blob/develop/doc/api/pngs/logos/logo_uds.png" width="100"/></a></td>
+  <td><a href="http://www.cemosis.fr/"><img alt="CeMoSiS" src="https://github.com/wkyoshe/feelpp/blob/develop/doc/api/pngs/logos/logo_cemosis.png" width="100"/></a></td>
+  <td><a href="http://www.ujf-grenoble.fr/"><img alt="UJF" src="https://github.com/wkyoshe/feelpp/blob/develop/doc/api/pngs/logos/logo_ujf.jpg" width="100"/></a></td>
+  <td><a href="http://www.uc.pt/"><img alt="UC" src="https://github.com/wkyoshe/feelpp/blob/develop/doc/api/pngs/logos/logo_uc.png" width="100"/></a></td>
+  <td><a href="http://www.cnrs.fr/"><img alt="CNRS" src="https://github.com/wkyoshe/feelpp/blob/develop/doc/api/pngs/logos/logo_cnrs.png" width="100"/></a></td>
+  <td><a href="http://www.imati.cnr.it/"><img alt="IMATI" src="https://github.com/wkyoshe/feelpp/blob/develop/doc/api/pngs/logos/logo_imati.jpg" width="100"/></a></td>
+</tr>
+</table>
+</center>
+ 
 
 ##Current Sponsors   
-[ARN](http://www.agence-nationale-recherche.fr/)   
-[Amies](http://agence-maths-entreprises.fr/)  
-[Labex Irma](http://labex-irmia.u-strasbg.fr/)   
+<center>
+<table border=0px">
+<tr>
+  <td><a href="http://www.agence-nationale-recherche.fr/ "><img alt="ANR" src="https://github.com/wkyoshe/feelpp/blob/develop/doc/api/pngs/logos/logo_anr.png" width="100"/></a></td>
+</tr>
+</table>
+</center>  
 
-##Former Sponsors
-[CLUSTER ISLE](http://cluster-isle.grenoble-inp.fr/)   
-RHONE ALPES[](http://www.rhonealpes.fr/)
+##Former Sponsors   
+<td><a href="http://www.rhonealpes.fr/ "><img alt="RA" src="https://github.com/wkyoshe/feelpp/blob/master/doc/api/pngs/logos/logo_ra.png" width="100"/></a></td>   [CLUSTER ISLE](http://cluster-isle.grenoble-inp.fr/)   
 [GNU](http://www.gnu.org/licenses/lgpl-2.1.html)
