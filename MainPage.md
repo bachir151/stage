@@ -1,5 +1,5 @@
 
-feel is a unified C++ implementation of Galerkin methods (finite and
+Feel++ is a unified C++ implementation of Galerkin methods (finite and
 spectral element methods) in 1D, 2D And 3D to solve partial
 differential equations.   
 
@@ -31,7 +31,7 @@ This manual is organized as follows:
 - [QuickStart](http://www.feelpp.org/docs/master/GettingStarted.html)where we provide various standard PDE solvers to start
   with   
 -  [A Step by Step Tutorial](http://www.feelpp.org/docs/master/Tutorial.html) where we dive step by step into Feel++   
--  [Programming Environment](http://www.feelpp.org/docs/master/ProgEnv.html)which includes instructions for installation from sources or
+-  [Programming Environment](http://www.feelpp.org/docs/master/ProgEnv.html) which includes instructions for installation from sources or
   from Debian/Ubuntu and MacOSX   
 -  [Quick Reference](http://www.feelpp.org/docs/master/QuickRef.html) which describes the various components of Feel++ applications   
 
