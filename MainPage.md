@@ -69,6 +69,14 @@ Coimbra (Portugal), CNRS and [CeMoSiS](http://www.cemosis.fr/).
 </table>
 </center>  
 
-##Former Sponsors   
-<td><a href="http://www.rhonealpes.fr/ "><img alt="RA" src="https://github.com/wkyoshe/feelpp/blob/master/doc/api/pngs/logos/logo_ra.png" width="100"/></a></td>   [CLUSTER ISLE](http://cluster-isle.grenoble-inp.fr/)   
-[GNU](http://www.gnu.org/licenses/lgpl-2.1.html)
+##Former Sponsors  
+<center>
+<table border=0px">
+<tr>
+<td><a href="http://www.rhonealpes.fr/ "><img alt="RA" src="https://github.com/wkyoshe/feelpp/blob/master/doc/api/pngs/logos/logo_ra.png" width="100"/></a></td>
+<td><a href="http://cluster-isle.grenoble-inp.fr/ "><img alt="RA" src="https://github.com/wkyoshe/feelpp/blob/develop/doc/api/pngs/logos/logo_isle.jpg" width="100"/></a></td> 
+<td><a href="http://www.gnu.org/licenses/lgpl-2.1.html "><img alt="RA" src="https://github.com/wkyoshe/feelpp/blob/develop/doc/api/pngs/logos/cc-LGPL-a.png" width="100"/></a></td>   
+</tr>
+</table>
+</center> 
+
